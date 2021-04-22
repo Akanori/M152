@@ -27,5 +27,13 @@
   border-radius: 4px;
   margin-top: 2vh;
   margin-bottom: 1vh;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+}
+
+.person__button:hover {
+  background-color: red;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
 }
 /*# sourceMappingURL=style.css.map */
