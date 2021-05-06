@@ -1,0 +1,10 @@
+1: 
+2: Navbar auf webseiten sieht zusammengehörig aus.
+3: Audi hat ringe als logo
+4: Bilder die nahe bei Texten plaziert sind werden als dazugehörig angesehen.
+5: Texte sind so geortnet dass sie einen guten Lesefluss ermöglichen.
+6: Navigation einer Website sieht auf jeder Page gleich aus.
+7: Das löschen einer Bestellung wird nochmals vermerkt um nicht ausversehen Produkte aus dem Wahrenkorb zu löschen.
+8: Schwierig
+9: Schwierig
+10: Webanimation kann zusammengehörig wirken.
